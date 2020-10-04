@@ -1,2 +1,2 @@
 # techdegree-project-1
- fiest tech degree project
+ first tech degree project
